@@ -1,0 +1,1 @@
+In this proyect i will learn how commit and what they are so important to the code  
